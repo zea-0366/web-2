@@ -1,0 +1,14 @@
+1. Jelaskan apa yang dimaksud dengan dokumen root ?
+- JAWABAN: Dokumen root adalah dokumen utama dalam  hierarki suatu sistem atau aplikasi yang biasanya merujuk pada halaman utama dari sebuah situs web, seperti index.html atau index.php
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori
+C:\xampp\htdocs ? Jelaskan jawaban anda
+- JAWABAN: Tidak, dokumen root pada Apache web server tidak harus terletak dalam direktori C:\xampp\htdocs. Direktori tersebut adalah konfigurasi default yang digunakan oleh XAMPP, sebuah paket perangkat lunak yang menyederhanakan pemasangan Apache, MySQL, PHP, dan Perl.
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote, add, commit, push
+dan checkout?
+- JAWABAN: -Perintah git init digunakan untuk membuat suatu repositori Git yang baru di direktori saaat ini. -Perintah git clone untuk mendupliksai repositori Git yang ada dari URL tertentu ke direktori lokal. - Perintah git remote untuk mengelola repositori jarak jauh. Dengan perintah git remote, kita bisa menambahkan, menghapus, atau menampilkan repositori jarak jauh. -Perintah git add digunakan untuk menambahkan file pada staging area dan file-file yang sudah di-staging akan siap di-commit. -Perintah git commit digunakan untuk mengirim commit suatu file dari repositori lokal ke repositori remote. -Perintah git checkout digunakan untuk memindahkan suatu branch atau commit yang berbeda.
+4. Jelaskan perbedaan antara GitHub dan GitLab!
+JAWABAN: GitHub cocok untuk kolaborasi publik dan proyek open-source dengan komunitas besar dan integrasi alat yang luas. GitLab cocok untuk organisasi yang menginginkan solusi DevOps lengkap dengan opsi self-hosting dan fitur CI/CD yang kuat.
+5. Apa bedanya variable user dengan variable system ?
+JAWABAN: Variabel User => Didefinisikan dan diubah oleh pengguna atau aplikasi, fleksibel, dan digunakan sesuai kebutuhan spesifik. Variabel System => Didefinisikan dan dikelola oleh sistem operasi, berisi informasi penting sistem, dan sering kali tidak mudah diubah oleh pengguna biasa.
+6. Apa persamaan variable system dengan variable constant ?
+JAWABAN: Variabel Sistem => Didefinisikan oleh sistem operasi dan bisa diubah dengan izin yang tepat. Variabel Konstan => Didefinisikan oleh programmer dan tidak bisa diubah setelah ditetapkan.
