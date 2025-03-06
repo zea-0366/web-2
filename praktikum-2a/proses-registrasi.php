@@ -70,4 +70,3 @@ function kategori_skill($skor_skill = 0)
       break;
   }
 }
-
