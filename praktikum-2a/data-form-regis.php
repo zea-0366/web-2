@@ -16,4 +16,3 @@ $ar_skill = [
 ];
 
 $ar_domisili = ["Jakarta", "Depok", "Bogor", "Tangerang", "Bekasi", "Lainnya"];
-
